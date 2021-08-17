@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">👋🏽 Hi, I'm duyhdb</h1>
-<h3 align="center">I know who I am.</h3>
+<h3 align="center">I know who I am that I'm nobody.</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=duyhdb&theme=tokyonight&show_icons=true" width="380" alt="duyhdb" /> </p>
 
