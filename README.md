@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">👋🏽 Hi, I'm duyhdb</h1>
-<h3 align="center">Glad to see you.</h3>
+<h2 align="center">Hi, glad to see you.</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=duyhdb&theme=tokyonight&show_icons=true" width="380" alt="duyhdb" /> </p>
 
 I'm best reached via [email](mailto:duyhdb@gmail.com). I'm always open to interesting conversations and collaboration.
 
 <!--
----
-### I Enjoy Using
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
