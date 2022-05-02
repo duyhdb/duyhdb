@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi, (not) glad to see you.</h2>
+<h2 align="center">Hi, nice to see you.</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=duyhdb&theme=tokyonight&show_icons=true" width="380" alt="duyhdb" /> </p>
 
